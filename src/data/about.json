@@ -1,0 +1,130 @@
+{
+  "hero": {
+    "eyebrow": "The Story Behind Veloura ♡",
+    "title": "More Than Coffee.<br />A Place to Belong.",
+    "description": "Veloura Café was created as a warm, elegant space where exceptional coffee, beautiful food and meaningful moments come together — one unhurried cup at a time.",
+    "image": "/images/about/about-story.webp",
+    "buttonText": "Explore Our Menu",
+    "secondaryButtonText": "Visit Us"
+  },
+
+  "story": {
+    "eyebrow": "Our Story",
+    "title": "A Café Made for Slow Moments",
+    "paragraphs": [
+      "Veloura Café began with a simple idea: create a place where people could pause, connect and enjoy beautifully crafted coffee.",
+      "From carefully selected beans to freshly prepared dishes, every detail is designed to make an ordinary visit feel special.",
+      "Today, Veloura Café is more than a coffee shop. It is a welcoming space for conversations, quiet mornings, creative afternoons and memorable evenings."
+    ],
+    "image": "/images/about/about.webp",
+    "note": "Good Coffee, Happier People ♡"
+  },
+
+  "philosophy": {
+    "eyebrow": "Our Philosophy",
+    "title": "Crafted With Intention",
+    "description": "We believe great café experiences come from thoughtful ingredients, skilled hands and genuine hospitality.",
+    "items": [
+      {
+        "icon": "coffee",
+        "title": "Exceptional Coffee",
+        "description": "Thoughtfully selected beans and carefully crafted drinks in every cup."
+      },
+      {
+        "icon": "leaf",
+        "title": "Fresh Ingredients",
+        "description": "Quality ingredients chosen to create food that feels fresh and comforting."
+      },
+      {
+        "icon": "heart",
+        "title": "Made With Care",
+        "description": "Every drink, plate and interaction is prepared with attention to detail."
+      }
+    ]
+  },
+
+  "whyVeloura": {
+    "eyebrow": "Why Veloura",
+    "title": "Designed Around Your Moments",
+    "description": "Whether you are meeting someone special, working quietly or simply enjoying your favourite coffee, Veloura is designed to make you feel at home.",
+    "items": [
+      {
+        "icon": "sparkle",
+        "title": "Warm Atmosphere",
+        "description": "An elegant and comfortable environment designed for slow, beautiful moments."
+      },
+      {
+        "icon": "menu",
+        "title": "Thoughtful Menu",
+        "description": "Coffee, desserts and café favourites prepared with quality ingredients."
+      },
+      {
+        "icon": "hands",
+        "title": "Personal Service",
+        "description": "Friendly hospitality that makes every guest feel genuinely welcome."
+      },
+      {
+        "icon": "gem",
+        "title": "Beautiful Details",
+        "description": "From presentation to interiors, every little detail is intentionally considered."
+      }
+    ]
+  },
+
+  "values": {
+    "eyebrow": "What We Believe",
+    "title": "Our Values",
+    "items": [
+      {
+        "number": "01",
+        "title": "Quality",
+        "description": "Never compromise on the ingredients, coffee or experience."
+      },
+      {
+        "number": "02",
+        "title": "Warmth",
+        "description": "Create a space where everyone feels comfortable and welcome."
+      },
+      {
+        "number": "03",
+        "title": "Creativity",
+        "description": "Bring creativity into our menu, presentation and café experience."
+      },
+      {
+        "number": "04",
+        "title": "Community",
+        "description": "Build a place where people can connect, create and belong."
+      }
+    ]
+  },
+
+  "stats": [
+    { "value": "10+", "label": "Signature Drinks" },
+    { "value": "5K+", "label": "Happy Guests" },
+    { "value": "4.9", "label": "Guest Rating" },
+    { "value": "7", "label": "Days a Week" }
+  ],
+
+  "experience": {
+    "eyebrow": "The Veloura Experience",
+    "title": "Come for the Coffee. Stay for the Feeling.",
+    "description": "A quiet morning coffee, an afternoon with friends or an evening dessert — Veloura Café is made for every kind of moment.",
+    "image": "/images/about/about-experience.webp",
+    "features": [
+      "Comfortable seating",
+      "Freshly prepared food",
+      "Premium coffee",
+      "Friendly service",
+      "Relaxed atmosphere",
+      "Perfect for conversations and work"
+    ]
+  },
+
+  "cta": {
+    "eyebrow": "Your Table Is Waiting ♡",
+    "title": "Come, Stay Awhile.",
+    "description": "Make your next coffee break a little more beautiful.",
+    "primaryButton": "View Our Menu",
+    "secondaryButton": "Visit Veloura Café"
+  }
+}

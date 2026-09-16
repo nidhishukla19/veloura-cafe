@@ -1,0 +1,61 @@
+{
+    "hero": [
+        "/images/hero/hero.webp"
+    ],
+
+    "about": [
+        "/images/about/about.webp",
+        "/images/about/about-story.webp",
+        "/images/about/about-philosophy.webp",
+        "/images/about/about-experience.webp"
+    ],
+
+    "menu": [
+        "/images/menu/coffee-1.webp",
+        "/images/menu/coffee-2.webp",
+        "/images/menu/coffee-3.webp",
+        "/images/menu/coffee-4.webp",
+        "/images/menu/coffee-5.webp",
+        "/images/menu/coffee-6.webp",
+        "/images/menu/food-1.webp",
+        "/images/menu/food-2.webp",
+        "/images/menu/food-3.webp",
+        "/images/menu/dessert-1.webp",
+        "/images/menu/dessert-2.webp",
+        "/images/menu/dessert-3.webp"
+    ],
+
+    "gallery": [
+        "/images/gallery/gallery-1.webp",
+        "/images/gallery/gallery-2.webp",
+        "/images/gallery/gallery-3.webp",
+        "/images/gallery/gallery-4.webp",
+        "/images/gallery/gallery-5.webp",
+        "/images/gallery/gallery-6.webp"
+    ],
+
+    "reviews": [
+        "/images/reviews/review-1.webp"
+    ],
+
+    "offers": [
+        "/images/offers/offer-1.webp",
+        "/images/offers/offer-2.webp",
+        "/images/offers/offer-3.webp"
+    ],
+
+    "contact": [
+        "/images/contact/cafe-exterior.webp",
+        "/images/contact/cafe-interior.webp",
+        "/images/contact/location.webp"
+    ],
+
+    "auth": {
+        "login": "/images/auth/login.webp",
+        "signup": "/images/auth/signup.webp"
+    },
+
+    "logo": {
+        "main": "/images/logo/logo.png"
+    }
+}
